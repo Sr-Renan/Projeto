@@ -1,0 +1,50 @@
+*{
+    margin: 0px;
+}
+
+header{
+    background-color: darkcyan;
+    height: 13vh;
+}
+
+Menu{
+    background-color: white;
+}
+
+footer{
+    background-color: darkcyan;
+    height: 7vh;
+    text-align: center;
+    font-weight: bold;
+    padding: 18px;
+}
+
+nav{
+    width: 30%;
+    margin: 0 auto;
+
+}
+
+li{
+    list-style: none;
+    float: left;
+    padding: 12px;
+    border: 1px solid black;
+    margin: 25px 5px;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+
+}
+.cont{
+    width: 80%;
+    margin: 0 auto;
+}
+
+.Logo{
+    position: absolute;
+    left: 40px;
+    width: 6%;
+}

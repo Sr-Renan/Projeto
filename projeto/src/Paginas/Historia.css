@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital@1&display=swap');
+
+h1{
+    text-align: center;
+    margin-left: 27%;
+    margin-right: 38%;
+    font-family: 'Roboto Mono', monospace;
+}
+
+p{
+    margin-block-end: 75px;
+    margin-top: 75px;
+    margin-left: 100px;
+    margin-right: 100px;
+    font-family: 'Roboto Mono', monospace;
+    text-align: center;
+    text-align: justify;
+}
